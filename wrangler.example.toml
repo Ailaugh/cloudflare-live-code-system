@@ -1,0 +1,8 @@
+name = "YOUR_PAGES_PROJECT"
+compatibility_date = "2026-07-22"
+pages_build_output_dir = "dist"
+
+[[kv_namespaces]]
+binding = "LIVE_CODES"
+id = "YOUR_PRODUCTION_KV_NAMESPACE_ID"
+preview_id = "YOUR_PREVIEW_KV_NAMESPACE_ID"
